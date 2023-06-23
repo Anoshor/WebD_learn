@@ -1,0 +1,24 @@
+.hero {
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.hero-text {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+}
+.hero {
+  height: 100vh;
+  background-color: #f2f2f2;
+}
+
+.hero-text {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+}

@@ -1,0 +1,22 @@
+.left {
+  position: relative;
+  left: 200px;
+}
+
+body {
+  background-color:#E9D5CA;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: white;
+  height:0px;
+  width:20%;
+}
+
+h1,h3 {
+  color: #363062;
+}
